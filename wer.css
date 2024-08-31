@@ -1,0 +1,542 @@
+* {
+    font-family: sans-serif;
+}
+
+.asad {
+    position: absolute;
+    z-index: 1;
+    margin-left: 80px;
+}
+
+.asad1 {
+    position: absolute;
+    z-index: 1;
+    font-size: 35px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 95px;
+    font-weight: 700;
+}
+
+.asad2 {
+    margin-left: 700px;
+    margin-top: 30px;
+    position: absolute;
+    z-index: 2;
+}
+
+.asad3 {
+    margin-left: 800px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 30px;
+}
+
+.asad4 {
+    margin-left: 900px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 30px;
+}
+
+.asad5 {
+    margin-left: 1000px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 30px;
+}
+
+.asad6 {
+    margin-left: 1250px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(98, 98, 239);
+}
+
+.asad7 {
+    position: absolute;
+    z-index: 2;
+    margin-left: 1400px;
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: blue;
+}
+
+.asad6:hover {
+    color: chocolate;
+    cursor: pointer;
+    border-color: rgb(248, 248, 250);
+}
+
+.asad7:hover {
+    border-color: rgb(248, 248, 250);
+    color: chocolate;
+    cursor: pointer;
+}
+
+.asad2:hover {
+    color: chocolate;
+    cursor: pointer;
+}
+
+.asad3:hover {
+    color: chocolate;
+    cursor: pointer;
+}
+
+.asad4:hover {
+    color: chocolate;
+    cursor: pointer;
+}
+
+.asad5:hover {
+    color: chocolate;
+    cursor: pointer;
+}
+
+.asad8 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 200px;
+    font-size: 60px;
+    margin-left: 80px;
+}
+
+.asad9 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 380px;
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+.asad10 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 470px;
+    margin-left: 120px;
+    font-family: sans-serif;
+    border: 1px solid;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+    background-color: orange;
+    border-color: orange;
+
+}
+
+.asad10:hover {
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+    border-color: blue;
+}
+
+.asad11 {
+    width: 130px;
+    height: 130px;
+    margin-top: 440px;
+    margin-left: 230px;
+}
+
+.asad12 {
+    margin-left: 380px;
+    margin-top: -90px;
+    font-family: sans-serif;
+}
+
+.asad12:hover {
+    color: rgb(247, 162, 4);
+    cursor: pointer;
+}
+
+.asad13 {
+    margin-left: 600px;
+    margin-top: -500px;
+}
+
+.asad14 {
+    color: grey;
+    font-family: sans-serif;
+    margin-left: 480px;
+}
+
+.asad15 {
+    margin-left: 52px;
+}
+
+.asad16 {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 550px;
+    margin-top: 200px;
+}
+
+.asad17 {
+    font-size: 20px;
+    margin-left: 470px;
+}
+
+.asad18 {
+    margin-left: 200px;
+    margin-top: 100px;
+    position: absolute;
+    z-index: 2;
+}
+
+.asad19 {
+    margin-left: 630px;
+    margin-top: 100px;
+    position: absolute;
+    z-index: 2;
+}
+
+.asad20 {
+    margin-left: 1100px;
+    margin-top: 90px;
+    position: absolute;
+    z-index: 2;
+}
+
+.asad21 {
+    font-size: 25px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 250px;
+    margin-left: 230px;
+}
+
+.asad22 {
+    font-size: 25px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 630px;
+    margin-top: 250px;
+}
+
+.asad23 {
+    font-size: 25px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 1100px;
+    margin-top: 250px;
+}
+
+.asad24 {
+    margin-left: 200px;
+    position: absolute;
+    z-index: 3;
+    margin-top: 350px;
+}
+
+.asad25 {
+    position: absolute;
+    z-index: 3;
+    margin-left: 620px;
+    margin-top: 350px;
+}
+
+.asad26 {
+    position: absolute;
+    z-index: 3;
+    margin-left: 1100px;
+    margin-top: 350px;
+}
+
+.asad27 {
+    position: absolute;
+    z-index: 3;
+    margin-left: 620px;
+    margin-top: 500px;
+    font-size: 35px;
+}
+
+.asad28 {
+    position: absolute;
+    z-index: 3;
+    margin-left: 470px;
+    margin-top: 580px;
+}
+
+.asad29 {
+    position: absolute;
+    z-index: 4;
+    margin-top: 700px;
+    margin-left: 50px;
+}
+
+.asad30 {
+    position: absolute;
+    z-index: 4;
+    margin-left: 850px;
+    margin-top: 700px;
+}
+
+.asad31 {
+    position: absolute;
+    z-index: 5;
+    margin-top: 860px;
+    margin-left: 220px;
+    color: white;
+    font-size: 25px;
+}
+
+.asad33 {
+    width: 200px;
+    height: 50px;
+    margin-left: 235px;
+    margin-top: 900px;
+    position: absolute;
+    z-index: 8;
+    border-radius: 50px;
+    background: #f8f8fa80;
+    border-color: white;
+
+}
+
+.asad33:hover {
+    cursor: pointer;
+    background: #171B4180;
+    border-color: white;
+}
+
+.asad34 {
+    position: absolute;
+    z-index: 5;
+    color: white;
+    font-size: 25px;
+    margin-left: 1060px;
+    margin-top: 850px;
+
+}
+
+.asad35 {
+    width: 200px;
+    height: 50px;
+    margin-left: 1070px;
+    margin-top: 900px;
+    position: absolute;
+    z-index: 8;
+    border-radius: 50px;
+    background: #23BDEEE5;
+    border-color: wheat;
+}
+
+.asad36 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 1300px;
+    margin-left: 800px;
+}
+
+.asad37 {
+    position: absolute;
+    z-index: 1;
+    border: 1px solid;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin-left: 1210px;
+    margin-top: 1480px;
+    background-color: orange;
+    border-color: orange;
+}
+
+.asad38 {
+    position: absolute;
+    z-index: 1;
+    border: 1px solid;
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    margin-left: 790px;
+    margin-top: 1290px;
+    background-color: rgb(51, 0, 255);
+    border-color: rgb(38, 0, 255);
+}
+
+.asad39 {
+    position: absolute;
+    z-index: 2;
+    margin-left: 80px;
+    margin-top: 1400px;
+    font-size: 40px;
+}
+
+.asad40 {
+    position: absolute;
+    z-index: 1;
+    border: 1px solid;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(229, 181, 147);
+    margin-top: 1390px;
+    margin-left: 60px;
+    border-color: rgb(231, 162, 113);
+}
+
+.asad41 {
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+    margin-top: 1550px;
+    margin-left: 80px;
+}
+
+.asad42 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 1680px;
+    margin-left: 80px;
+}
+
+.asad42:hover {
+    background-color: white;
+    border-color: white;
+}
+
+.asad43 {
+    position: absolute;
+    z-index: 1;
+    font-size: 35px;
+    margin-top: 2000px;
+    margin-left: 650px;
+}
+
+.asad44 {
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+    margin-top: 2080px;
+    margin-left: 430px;
+}
+
+.asad45 {
+    margin-top: 2200px;
+    width: 1500px;
+}
+
+body {
+    font-family: sans-serif;
+
+}
+
+.tools {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.asses {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.bitta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.say {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.ali {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.aza {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.minibig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+im {
+    width: 300px;
+    height: 280px;
+}
+
+.but {
+
+    width: 400px;
+    height: 30px;
+    border-color: rgb(212, 180, 4);
+    border-radius: 15px;
+    color: rgb(212, 180, 4);
+    margin-left: 140px;
+}
+
+.button {
+    width: 200px;
+    height: 30px;
+    border-color: rgb(212, 180, 4);
+    border-radius: 15px;
+    color: rgb(212, 180, 4);
+    margin-left: 140px;
+}
+
+.butto {
+    width: 200px;
+    height: 30px;
+    border-color: rgb(212, 180, 4);
+    border-radius: 15px;
+    color: rgb(212, 180, 4);
+    margin-left: 140px;
+}
+
+.div {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(212, 180, 4);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
